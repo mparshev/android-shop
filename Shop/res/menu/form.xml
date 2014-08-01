@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_accept" android:title="@string/action_accept" android:showAsAction="ifRoom" android:icon="@drawable/ic_action_accept"></item>
+    <item android:id="@+id/action_discard" android:title="@string/action_discard" android:showAsAction="ifRoom" android:icon="@drawable/ic_action_discard"></item>
+    
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="action_edit">Редакт</string>
+    <string name="action_new">Добав</string>
+    <string name="action_accept">Подтв</string>
+    <string name="action_discard">Удал</string>
+    <string name="action_done">Готово</string>
+
+</resources>
